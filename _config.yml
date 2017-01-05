@@ -14,16 +14,16 @@ description: > # this means to ignore newlines until "baseurl:"
   
   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://micheltol.github.io" # the base hostname & protocol for your site
+url: "https://micheltol.github.io" # the base hostname & protocol for your site
 
 #sidebar
 default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
 
 #footer
-built-by: MIchel Tol
+#built-by: Michel Tol
 copyright:
    name: Michel Tol
-   link: 'http://micheltol.github.io'
+   link: 'https://micheltol.github.io'
 
 # Build settings
 markdown: kramdown
@@ -45,7 +45,7 @@ github:  https://github.com/micheltol/micheltol.github.io
 
 #facebook like box
 fb-app-id: # 549480635219583
-fb-page-url: ""# https://www.facebook.com/webjeda/
+fb-page-url: "" # https://www.facebook.com/webjeda/
 fb-page-title: # ""webjeda
 
 # Sass style
