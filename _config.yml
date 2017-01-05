@@ -35,7 +35,7 @@ paginate_path: /page:num/
 analytics: UA-4573188-4
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: micheltol
 
 #social
 facebook: "" # http://facebook.com/webjeda
