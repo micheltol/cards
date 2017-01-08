@@ -1,0 +1,22 @@
+---
+layout: page
+title: Bucket list
+img: bucketlist.jpg
+desc: Onze Zuid Afrikaanse bucket list, van de big 5 tot geocache. Van ballonvaart tot vrijwilligerswerk.
+permalink: /bucketlist/
+---
+
+De lijst van dingen die we willen doen groeit per dag of het nu walvissen spotten is of een puinguin dans doen samen met de puinguins of een volwaardige adrenaline kick door te gaan duiken met haaien, deze lijst zal zeker groeien :smile:
+
+Tips, tricks en/of opmerkingen zijn natuurlijk welkom!   :thumbsup:
+
+* Whale watching
+* Tafelberg beklimmen
+* Minimaal 1 geocache zoeken
+* Kerst in een korte broek
+* The big 5 zien.
+* De braai on fire!
+* Shark diving
+* Bungee jumping
+* Ballon vlucht
+* Vrijwilligerswerk

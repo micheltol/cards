@@ -1,22 +1,24 @@
+<footer class="footer ">
+  <div class="container">
+    <div class="row mt20">
+      {% if site.copyright.name %}
+      <div class="col-md-4"> <a target="_blank" href="{{site.copyright.link}}">{{site.copyright.name}}</a></div>
+      {% endif %}
 
-  <footer class="container">
+      <div class="col-md-4 text-center">
 
-  <div class="row mt20">
-  {% if site.copyright.name %}
-  <div class="col-md-4 text-center">All rights reserved by <a target="_blank" href="{{site.copyright.link}}">{{site.copyright.name}}</a></div>
-    {% endif %}
-    
-  <div class="col-md-4 text-center" >
-
-  </div>
-  <div class="col-md-4 pull-right">
-     <a target="_blank" href="{{site.facebook}}"><li class="social facebook"><img src="{{site.baseurl}}/images/facebook.svg" alt="{{site.facebook}}"></li></a> 
-      <!--
+      </div>
+      <div class="col-md-4 pull-right">
+        <a target="_blank" href="{{site.facebook}}">
+          <li class="social facebook"><img src="{{site.baseurl}}/images/facebook.svg" alt="{{site.facebook}}"></li>
+        </a>
+        <!--
       <a target="_blank" href="{{site.twitter}}"><li class="social twitter"><img src="{{site.baseurl}}/images/twitter.svg" alt="{{site.twitter}}"></li></a>      
       <a target="_blank" href="{{site.github}}"><li class="social github"><img src="{{site.baseurl}}/images/github.svg" alt="{{site.github}}"></li></a>
 	  -->
-  </div>
-  
-  </div> 
+      </div>
+
+    </div>
+    </div>
 
 </footer>

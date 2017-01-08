@@ -4,7 +4,6 @@ title: Over ons
 img: about.jpg
 desc: Lenja en Michel samen met de kinderen vijf maanden naar Kaapstad - Zuid-Adrika. Wat gaan we daar doen?  
 permalink: /about/
-adallow: 0
 ---
 
 Hoi, wij zijn Lenja & Michel en samen met de kinderen zullen wij vanaf september 2017 voor 5 maanden in Zuid-Afrika verblijven. Het huidige plan is om eerst een maand te reizen en ons daarna te in de buurt van Kaapstad ([Hout  Bay](https://en.wikipedia.org/wiki/Hout_Bay){:target="_blank"}, [Fisch hoek](https://en.wikipedia.org/wiki/Fish_Hoek){:target="_blank"}) te settelen.

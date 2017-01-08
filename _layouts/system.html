@@ -1,0 +1,53 @@
+--- 
+layout: compress 
+---
+
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+  {% include header.html %}
+
+  <div class="heading-banner" style="background-image: url({{site.baseurl}}/images/{{page.img}});"></div>
+
+<div class="container" style="margin-top: 350px;">
+<div class="wrapper">
+  <div class="row">
+    <div class="col-md-8">
+      {{ content }}
+    </div>
+  </div>
+</div>
+</div>
+
+
+{% include footer.html %}
+
+<script async>
+  (function () {
+    var font = document.createElement('link');
+    font.type = 'text/css';
+    font.rel = 'stylesheet';
+    font.href = '//fonts.googleapis.com/css?family=Raleway:400,700';
+    var s = document.getElementsByTagName('link')[0];
+    s.parentNode.insertBefore(font, s);
+  })();
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+<script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
+{% if site.analytics %}{% include analytics.html %}{% endif %}
+</body>
+
+</html>
+
+<style>
+.navbar 
+{
+margin-bottom: 0px;
+
+}
+</style>

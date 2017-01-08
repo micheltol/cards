@@ -3,7 +3,6 @@ layout: page
 title: Contact
 desc: Vragen? Of gewoon een berichtje
 permalink: /contact/
-adallow: 0
 ---
 
 Wil je wat kwijt of wat vragen? Neem contact op! Wij zouden dat erg leuk vinden!

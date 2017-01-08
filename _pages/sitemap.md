@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: system
 title: Sitemap
+img: static/ostrich-banner.jpeg
 permalink: /user-sitemap/
+
 ---
 
 ## Pages
@@ -9,4 +11,4 @@ permalink: /user-sitemap/
  
  
 ## Posts
-{% for post in site.posts %}{% unless post.published == false %}<a class="links" href="{{ site.url }}{{ post.url }}" target="_blank">{{post.title}}</a>{% endunless %}{% endfor %}
+{% for post in site.posts %}{% unless post.published == false or post.layout == "redirected" %}<a class="links" href="{{ site.url }}{{ post.url }}" target="_blank">{{post.title}}</a>{% endunless %}{% endfor %}

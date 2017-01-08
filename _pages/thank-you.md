@@ -1,27 +1,24 @@
 ---
-layout: page
+layout: system
+img: static/campsbay-banner.jpg
 title: Thank you
 permalink: /thank-you/
-adallow: 0
-inmenu: 0
+sitemap:
+   exclude: 'yes'
 ---
  
-<div class="thanks"><img src="/img/thumbs-up.svg" alt="webjeda-thank-you"><br><p>Your entry has reached us. If you still want to confirm it, then please ping me on whatsapp +91-890-447-5972 </p>
+<div class="thanks"><p>Bedankt voor je bericht. We reageren zo snel mogelijk! </p>
 </div>
 
       
 
  <style>
 .thanks{
-    width: 90%;
     padding:20px;
     text-align: center;
-    background-color: #fff8dc;
+    background-color: rgba(19,79,184,0.2);
     border-radius: 10px;
-    margin-bottom: 7em;
+    margin-bottom: 2em;
     }
-   
-.thanks img {
-    width: 40px;
-} 
+
  </style>
