@@ -8,7 +8,7 @@ permalink: /contact/
 Wil je wat kwijt of wat vragen? Neem contact op! Wij zouden dat erg leuk vinden!
 
 
-<form id="contact-form" class="form-horizontal" action="https://getsimpleform.com/messages?form_api_token=b6d4be9b039b666b3311e1ddcbfb577c" method="POST" enctype="multipart/form-data">
+<form id="contact-form" class="form-horizontal" action="https://getsimpleform.com/messages?form_api_token=ebca84fa0ead3311e04e74df58a06b3e" method="POST">
        <fieldset>
        
             <div class="form-group">
@@ -24,7 +24,7 @@ Wil je wat kwijt of wat vragen? Neem contact op! Wij zouden dat erg leuk vinden!
                 </div>
             </div>
             <div class="form-group">
-                <label class="col-lg-2 control-label" for="message">Message:</label>
+                <label class="col-lg-2 control-label" for="message">Bericht:</label>
                 <div class="col-lg-10">
                 <textarea class="contact-textarea" placeholder="Het bericht" class="form-control" rows="4" id="message" name="message" tabindex="3"></textarea>
                 </div>
