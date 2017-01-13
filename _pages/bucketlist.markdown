@@ -20,3 +20,8 @@ Tips, tricks en/of opmerkingen zijn natuurlijk welkom!   :thumbsup:
 * Bungee jumping
 * Ballonvlucht
 * Vrijwilligerswerk
+* zwemmen met zeehonden
+* Robbeneiland
+* Kaap de Goede Hoop
+* Surflessen
+* Sandboarding Atlantis dune
