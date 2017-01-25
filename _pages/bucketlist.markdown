@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bucket list
+title: Bucket list, here we come!
 img: bucketlist.jpg
 desc: Onze Zuid Afrikaanse bucket list, van de big 5 tot geocache. Van ballonvaart tot vrijwilligerswerk.
 permalink: /bucketlist/
