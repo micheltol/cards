@@ -4,7 +4,7 @@ sitemap: false
 permalink: /posts/bucketlist.html
 redirect_to:  /bucketlist/
 visible: 0
-title: Bucket list
+title: Bucket list, here we come!
 img: bucketlist.jpg
 date:   2017-01-06 22:51:47 +0200
 ---
