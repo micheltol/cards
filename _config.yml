@@ -53,5 +53,6 @@ sass:
   style: compressed
 
 # Ruby Gems
-gems: [jekyll-paginate, jekyll-seo-tag, jemoji]
+# gems: [jekyll-paginate, jekyll-seo-tag, jemoji]
+gems: [jekyll-paginate, jemoji]
 
