@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-desc: Vragen? Of gewoon een berichtje
+description: Vragen? Of gewoon een berichtje
 permalink: /contact/
 ---
 

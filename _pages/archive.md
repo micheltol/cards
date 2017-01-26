@@ -2,7 +2,7 @@
 layout: system
 img: static/lion-banner.jpg
 title: Archive
-desc: Find an archive of all our posts here. Every year I try to write more and more useful content on WebJeda. So this is where you can see what all the things I wrote on every single year!
+description: Find an archive of all our posts here. Every year I try to write more and more useful content on WebJeda. So this is where you can see what all the things I wrote on every single year!
 permalink: /archive/
 ---
 

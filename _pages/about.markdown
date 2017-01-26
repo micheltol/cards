@@ -2,7 +2,7 @@
 layout: page
 title: Over ons
 img: about.jpg
-desc: Lenja en Michel samen met de kinderen vijf maanden naar Kaapstad - Zuid-Adrika. Wat gaan we daar doen?  
+description: Lenja en Michel samen met de kinderen vijf maanden naar Kaapstad - Zuid-Adrika. Wat gaan we daar doen?  
 permalink: /about/
 ---
 

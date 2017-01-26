@@ -2,7 +2,7 @@
 layout: page
 title: Link dump
 img: bucketlist.jpg
-desc: Op onze zoektocht naar de fijnste plekken om te verblijven, de leukste dingen om te doen komen we een hoop goede websites tegen.
+description: Op onze zoektocht naar de fijnste plekken om te verblijven, de leukste dingen om te doen komen we een hoop goede websites tegen.
 permalink: /linkdump/
 ---
 
