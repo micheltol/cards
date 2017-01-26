@@ -4,6 +4,8 @@ title: Bucket list, here we come!
 img: bucketlist.jpg
 description: Onze Zuid Afrikaanse bucket list, van de big 5 tot geocache. Van ballonvaart tot vrijwilligerswerk.
 permalink: /bucketlist/
+categories: [bucketlist]
+tags:  [bucketlist, activiteiten, sharks, Vrijwilligerswerk things to do, wensen]
 ---
 
 De lijst van dingen die we willen doen groeit per dag of het nu walvissen spotten is of een dansje doen samen met de pinguïns of een volwaardige adrenalinekick door te gaan duiken met haaien, deze lijst zal zeker groeien :smile:

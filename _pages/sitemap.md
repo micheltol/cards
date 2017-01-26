@@ -3,6 +3,7 @@ layout: system
 title: Sitemap
 img: static/ostrich-banner.jpeg
 permalink: /user-sitemap/
+description: "Sitemap voor onze websote."
 
 ---
 
