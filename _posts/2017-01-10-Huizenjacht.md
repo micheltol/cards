@@ -23,7 +23,7 @@ En wat doe je als aller aller ALLER eerst als je besloten hebt om naar Kaapstad 
 * En is het huis nog wel betaalbaar met AL onze wensen ??? 
 
 
-Waaaat een zoektocht! Inmiddels ben ik al een AirBnB expert en zou ik bijna taxichauffeur kunnen worden in Kaapstad – zo goed ken ik de buurten inmiddels! 
+Waaaat een zoektocht! Inmiddels ben ik al een [AirBnB](http://www.airbnb.com/c/mtol){:target="_blank"} expert en zou ik bijna taxichauffeur kunnen worden in Kaapstad – zo goed ken ik de buurten inmiddels! 
 
 Geslaagd voor een huis zijn wij nog niet. Maar er is wel al contact gelegd met enkele verhuurders en wij wachten op hun aanbiedingen aangezien ik natuurlijk wel voor een 5 maanden *special* ga – logisch! Ik blijf Nederlander! Oh ehh… eigenlijk natuurlijk Duits…. Vandaar de Gründlichkeit bij het huizen zoeken; dan weet mijn gezin in ieder geval zeker dat ik het beste huis voor ze zal vinden! 
 
