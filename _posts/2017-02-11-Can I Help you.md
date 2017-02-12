@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Can I help you?"
 date:   2017-02-11 17:50:00 +0200
 img: canihelpyou.jpg

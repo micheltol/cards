@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "AirBnB expert"
 date:   2017-01-10 13:23:11 +0200
 img: cape_town_bo_kaap_houses.jpg
