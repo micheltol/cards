@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bam! Vlucht en woning geregeld!"
-date:   2017-02-12 22:03:00 +0200
+date:   2017-02-12 22:45:00 +0200
 img: bam_vlucht_woning.png
 description: "Er zijn van die dagen dat alles soepel gaat. Vandaag was zo'n dag."
 categories: [voorbereiding]
