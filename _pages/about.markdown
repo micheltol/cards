@@ -5,6 +5,9 @@ img: about.jpg
 description: Lenja en Michel samen met de kinderen vijf maanden naar Kaapstad - Zuid-Adrika. Wat gaan we daar doen?  
 permalink: /about/
 ---
+{% assign fablink = site.fb-page-url %}
+
+
 
 Hoi, wij zijn Lenja & Michel en samen met de kinderen zullen wij vanaf september 2017 voor 5 maanden in Zuid-Afrika verblijven. Het huidige plan is om eerst een maand te reizen en ons daarna in de buurt van Kaapstad ([Hout  Bay](https://en.wikipedia.org/wiki/Hout_Bay){:target="_blank"}, [Fisch hoek](https://en.wikipedia.org/wiki/Fish_Hoek){:target="_blank"}) te settelen.
 
@@ -16,5 +19,5 @@ Hoi, wij zijn Lenja & Michel en samen met de kinderen zullen wij vanaf september
 **En de kinderen?** Zoals eerder gezegd, de eerste maand zal vooral reizen zijn met onder andere de [Garden Route](https://www.lonelyplanet.com/south-africa/the-garden-route){:target="_blank"} en het [Addo Elephant National Park](https://www.sanparks.org/parks/addo/){:target="_blank"}. De maanden erna willen we graag dat de kinderen naar een lokale school gaan om zo de lokale cultuur te ontdekken en vriendjes te maken. Indien het nodig is zal Lenja de kinderen thuis onderwijzen. 
 
 
-**WOW, dit wil ik ook, maar ik heb vragen en/of opmerkingen. Hoe kan ik met jullie contact opnemen?** Leuk om te horen! Je kan ons benaderen via het [contactformulier](/contact) of via [Facebook](facebookurl)
+**WOW, dit wil ik ook, maar ik heb vragen en/of opmerkingen. Hoe kan ik met jullie contact opnemen?** Leuk om te horen! Je kan ons benaderen via het [contactformulier](/contact) of via [Facebook]({{fablink}}){:target="_blank"}
 
