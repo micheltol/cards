@@ -4,6 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="google-site-verification" content="4dYHvtsmwWfrisw7aVAtqAJvCW_Lpwo9rgCMKH0mrsM" />
+  <meta name="B-verify" content="e14f3638fad417df6b43e10213faa5bf9d6e72a9" />
   <meta content="{{ site.title }}" property="og:site_name"> 
   {% if page.title %}
   <meta content="{{ page.title }}" property="og:title"> 
@@ -47,7 +48,16 @@
           {{ include_to_scssify | scssify }}
   </style>
 
+  {% if page.custom_css %}
+    {% for stylesheet in page.custom_css %}
+    <link rel="stylesheet" href="{{ stylesheet }}" media="screen" type="text/css">
+    {% endfor %}
+  {% endif %}
+
 
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ " /feed.xml
   " | prepend: site.baseurl | prepend: site.url }}">
+
+  <script src='https://api.mapbox.com/mapbox.js/v3.1.1/mapbox.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/v3.1.1/mapbox.css' rel='stylesheet' />
 </head>
