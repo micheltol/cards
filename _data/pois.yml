@@ -1,0 +1,52 @@
+- name: Tambo International airport (JNB)
+  startdate: 24-08-2017
+  enddate: 24-08-2017
+  coordinates: 28.246111, -26.139167
+  url: https://www.booking.com/airport/za/jnb.nl.html
+  marker-type: airport
+  marker-color: \#DE3831
+  image-url: /images/johannesburg-airport.jpg
+  image-credit: http://www.johannesburg-airport.com
+
+- name: Ciara Lodge
+  startdate: 24-08-2017
+  enddate: 25-08-2017
+  coordinates: 28.224802299999965, -25.7018952 
+  url: http://www.booking.com/Share-VLYH5H
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://t-ec.bstatic.com/images/hotel/max300/189/18990307.jpg
+  image-credit: "booking.com"
+
+- name: Ferny Farm Guest House
+  startdate: 25-08-2017
+  enddate: 27-08-2017
+  coordinates: 29.9955, -23.8765415
+  url: http://www.booking.com/Share-SNA0g8
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://s-ec.bstatic.com/images/hotel/max300/855/85568785.jpg
+  image-credit: "booking.com"
+  Facebook: https://www.facebook.com/FernyFarmGuestHouse/
+
+- name: A Traveller's Palm
+  startdate: 27-08-2017
+  enddate: 29-08-2017
+  coordinates: 31.1341024, -23.9326274
+  url: http://www.booking.com/Share-oY4BLg
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://t-ec.bstatic.com/images/hotel/max300/401/40105821.jpg
+  image-credit: "booking.com"
+  Facebook:
+
+- name: Marepe Country Lodge
+  startdate: 29-08-2017
+  enddate: 30-08-2017
+  coordinates: 30.8415991, -24.4668336
+  url: http://www.booking.com/Share-q3ZH30
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://s-ec.bstatic.com/images/hotel/max300/932/93273802.jpg
+  image-credit: "booking.com"
+  Facebook:

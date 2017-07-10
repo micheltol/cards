@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  {% for poi in site.data.pois %}
+  {
+      "type": "Feature",
+      "properties": {
+        "title": "{{poi.name}}",
+        "marker-color": "{{poi.marker-color}}",
+        "marker-size": "medium",
+        "marker-symbol": "{{ poi.marker-type }}",
+        "marker-image": "{{ poi.image-url }}"
+        
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ {{ poi.coordinates }} ]
+      }
+  },
+  {% endfor %} 
+  ]
+}

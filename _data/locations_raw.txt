@@ -1,0 +1,108 @@
+making markers:
+marker icon: https://www.mapbox.com/maki-icons/
+explain: https://www.mapbox.com/help/markers/
+
+
+
+
+
+booking.com ref link
+https://www.booking.com/s/da3b3da3
+
+
+
+
+Ciara Lodge 3-sterren
+24 aug 25 aug
+887 Louis Trichardt Street, Rietfontein, 0084 Pretoria, South Africa
+http://www.booking.com/Share-VLYH5H
+http://www.ciaralodge.co.za/
+
+Ferny Farm Guest House
+25 AUG 2017 27 aug
+ Stampblokfontein Haenertsburg, 0730 Haenertsburg, Zuid-Afrika
+ http://www.booking.com/Share-SNA0g8
+ 
+
+- name: Ferny Farm Guest House
+  startdate: 25-08-2017
+  enddate: 27-08-2017
+  address: Stampblokfontein Haenertsburg, 0730 Haenertsburg, South Africa
+  url: http://www.booking.com/Share-SNA0g8
+
+
+ A Traveller's Palm
+ 27 AUg - 29AUG
+  124 Tulbach Street, 1390 Phalaborwa, Zuid-Afrika
+  http://www.booking.com/Share-oY4BLg
+  
+  
+  Marepe Country Lodge
+  R 531, Hoedspruit, 1380 Hoedspruit, Zuid-Afrika
+  29-30 aug
+  http://www.booking.com/Share-q3ZH30
+  
+  
+  Blue Swallow Chalets
+  56 Oorwinning Street, 1270 Graskop, Zuid-Afrika
+  30-31 aug
+  http://www.booking.com/Share-ImxKbT
+  
+  Hazyview Adventure Backpackers
+  Numbi Park, R40, 1241 Hazyview, Zuid-Afrika
+  31-1 sept
+  http://www.booking.com/Share-1gMMKM
+  
+  Hlane Royal National Park
+  S 26° 16.346, E 31° 52.743
+  2 sept - 3 sept
+  http://www.booking.com/Share-GB6gqE
+  
+  Mlilwane Wildlife Sanctuary
+ MR103, Lobamba, M204 Lobamba, Swaziland
+ 3-4 sept
+ http://www.booking.com/Share-BMya3u
+ 
+ 
+ Sodwana Bay Lodge Self Catering
+ http://www.booking.com/Share-2At0br
+ Sodwana Bay Main Road, 3974 Sodwana Bay, Zuid-Afrika
+ 4-7 sept.
+ 
+ Carrington Guest House
+ 9-11 sept.
+ http://www.booking.com/Share-fOMNTt
+  20 Mountain Rise, Glenmore, 4001 Durban, Zuid-Afrika 
+  
+  Palm Springs B&B And Self Catering
+  11-12 sept.
+  http://www.booking.com/Share-J6tkax
+  74 Ries Avenue Extension 6 Butterworth, 4960 Butterworth, Zuid-Afrika
+  
+  
+  Avoca River Cabins
+  12-15 sept.
+  http://www.booking.com/Share-KQpqWZ
+  -33.481884, 25.588136
+  Off the R336, Sundays River Valley, Addo, 6107 Addo, Zuid-Afrika
+  
+  Schelde Apartment
+  15-17 sept
+  http://www.booking.com/Share-pYRBSE
+  18 Schelde Street, 6330 Jeffreys Bay, Zuid-Afrika
+  
+  Old Mill Lodge & A la Carte Restaurant
+  R328 Schoemanshoek, 15km en-route Cango Caves, Schoemanshoek, 6620 Oudtshoorn, Zuid-Afrika
+  17-19 sept.
+  http://www.booking.com/Share-bBD0PH
+  
+  
+  Kure Kure Accommodation
+  19-21 sept.
+  http://www.booking.com/Share-mQl2JA
+  22 Disa Steet SANDBAAI, 7200 Hermanus, Zuid-Afrika
+  
+  
+  
+ 
+ 

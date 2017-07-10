@@ -37,16 +37,16 @@ analytics: UA-4573188-4
 
 # Comments
 disqus-shortname: micheltol
-
-#social
-#facebook: "" # http://facebook.com/webjeda
-#twitter: "" # http://twitter.com/@webjeda
-#github:  https://github.com/micheltol/micheltol.github.io
-
-#facebook like box
-#fb-app-id: # 549480635219583
 fb-page-url: https://www.facebook.com/volg.onze.avonturen/
 fb-page-title: We go South
+
+mapbox:
+  public_token: pk.eyJ1IjoibWljaGVsdG9sIiwiYSI6ImNqM3BraWYxdDAwM2MzM28yZ3lvcjRiZGcifQ.NAF8bQC04dLh7ILuirXXwQ
+
+maps:
+  google:
+    api_key: <YOUR_KEY>
+
 
 # Sass style
 sass:
@@ -55,4 +55,5 @@ sass:
 # Ruby Gems
 # gems: [jekyll-paginate, jekyll-seo-tag, jemoji]
 gems: [jekyll-paginate, jemoji]
+# jekyll-maps
 
