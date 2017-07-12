@@ -2,7 +2,7 @@
   startdate: 24-08-2017
   enddate: 24-08-2017
   coordinates: 28.246111, -26.139167
-  url: https://www.booking.com/airport/za/jnb.nl.html
+  url: https://www.booking.com/airport/za/cpt.nl.html
   marker-type: airport
   marker-color: \#DE3831
   image-url: /images/johannesburg-airport.jpg
@@ -40,6 +40,8 @@
   image-credit: "booking.com"
   Facebook:
 
+
+
 - name: Marepe Country Lodge
   startdate: 29-08-2017
   enddate: 30-08-2017
@@ -50,3 +52,238 @@
   image-url: https://s-ec.bstatic.com/images/hotel/max300/932/93273802.jpg
   image-credit: "booking.com"
   Facebook:
+
+- name: Blue Swallow Chalets
+  startdate: 30-08-2017
+  enddate: 31-08-2017
+  coordinates: 30.842534999999998, -24.932826
+  url: http://www.booking.com/Share-ImxKbT
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://s-ec.bstatic.com/images/hotel/max300/706/70677146.jpg
+  image-credit: "booking.com"
+  Facebook:
+
+- name: Hazyview Adventure Backpackers
+  startdate: 31-08-2017
+  enddate: 01-09-2017
+  coordinates: 31.108105600000044, -25.0655501
+  url: http://www.booking.com/Share-1gMMKM
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://s-ec.bstatic.com/images/hotel/max300/814/81450640.jpg
+  image-credit: "booking.com"
+  Facebook:
+
+- name: Manzini Swazi King Chalets
+  startdate: 01-09-2017
+  enddate: 02-09-2017
+  coordinates: 31.762730000000033, -25.38451
+  url: https://www.airbnb.com/rooms/12260321?s=51
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://a0.muscache.com/im/pictures/13284005-b7a1-4d4f-bea1-99dc0a7daf45.jpg?aki_policy=x_large
+  image-credit: Airbnb.com
+  Facebook: https://www.facebook.com/ManziniChaletsGreaterKruger
+
+
+- name:   Hlane Royal National Park
+  startdate: 02-09-2017
+  enddate: 03-09-2017
+  coordinates: 31.879030599999965, -26.283348
+  url: http://www.booking.com/Share-GB6gqE
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://t-ec.bstatic.com/images/hotel/max300/391/39195287.jpg
+  image-credit: "booking.com"
+  Facebook:
+
+- name: Mlilwane Wildlife Sanctuary
+  startdate: 03-09-2017
+  enddate: 04-09-2017
+  coordinates: 31.194044, -26.479780 
+  url: http://www.booking.com/Share-BMya3u
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://s-ec.bstatic.com/images/hotel/max300/391/39193636.jpg
+  image-credit: "booking.com"
+  Facebook:
+
+
+- name: Sodwana Bay Lodge Self Catering
+  startdate: 04-09-2017
+  enddate: 07-09-2017
+  coordinates: 32.657557699999984, -27.5135145
+  url: http://www.booking.com/Share-2At0br
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://t-ec.bstatic.com/images/hotel/max300/453/45333465.jpg
+  image-credit: "booking.com"
+  Facebook:
+
+- name: Carrington Guest House
+  startdate: 09-09-2017
+  enddate: 11-09-2017
+  coordinates: 30.969013000000018, -29.881311
+  url: http://www.booking.com/Share-fOMNTt
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://t-ec.bstatic.com/images/hotel/max300/101/101161161.jpg
+  image-credit: "booking.com"
+  Facebook:
+
+- name: Palm Springs B&B And Self Catering
+  startdate: 11-09-2017
+  enddate: 12-09-2017
+  coordinates: 28.138539000000037, -32.322688
+  url: http://www.booking.com/Share-J6tkax
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://s-ec.bstatic.com/images/hotel/max300/717/71762715.jpg
+  image-credit: "booking.com"
+  Facebook:
+
+- name: Avoca River Cabins
+  startdate: 12-09-2017
+  enddate: 15-09-2017
+  coordinates:  25.588136, -33.481884 
+  url: http://www.booking.com/Share-KQpqWZ
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://t-ec.bstatic.com/images/hotel/max300/229/22972540.jpg
+  image-credit: "booking.com"
+  Facebook:
+  
+- name: Schelde Apartment
+  startdate: 15-09-2017
+  enddate: 17-09-2017
+  coordinates:  24.92096700000002, -34.050516
+  url: http://www.booking.com/Share-pYRBSE
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://s-ec.bstatic.com/images/hotel/max300/100/100149818.jpg
+  image-credit: "booking.com"
+  Facebook:
+
+- name: Old Mill Lodge & A la Carte Restaurant
+  startdate: 17-09-2017
+  enddate: 19-09-2017
+  coordinates: 22.251905999999963, -33.462093
+  url: http://www.booking.com/Share-bBD0PH
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://s-ec.bstatic.com/images/hotel/max300/101/101640236.jpg
+  image-credit: "booking.com"
+  Facebook:
+
+- name: Kure Kure Accommodation
+  startdate: 19-09-2017
+  enddate: 21-09-2017
+  coordinates: 19.191418, -34.421171
+  url: http://www.booking.com/Share-mQl2JA
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://t-ec.bstatic.com/images/hotel/max300/923/92345699.jpg
+  image-credit: "booking.com"
+  Facebook:
+  
+- name: Manners Manor
+  startdate: 21-09-2017
+  enddate: 21-12-2017
+  coordinates: 18.37062000000003, -34.02328
+  url: http://www.booking.com/Share-mQl2JA
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: /images/bam_vlucht_woning.jpg
+  image-credit: "booking.com"
+  Facebook:
+
+- name: Knysna
+  startdate: 21-12-2017
+  enddate: 23-12-2017
+  coordinates: 22.939277, -34.036056
+  url: https://www.airbnb.com/rooms/16854602?s=51
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://a0.muscache.com/im/pictures/2ed4dcb7-b419-4786-b0fe-438796b9e04f.jpg?aki_policy=x_large
+  image-credit: Airbnb.com
+  Facebook: 
+
+- name: Cashel Cottage, Kundalila Farm
+  startdate: 23-12-2017
+  enddate: 27-12-2017
+  coordinates: 23.472814, -33.952905
+  url: https://www.airbnb.com/rooms/7895047?s=51
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://a0.muscache.com/im/pictures/100996017/c5b5d2d2_original.jpg?aki_policy=x_large
+  image-credit: Airbnb.com
+  Facebook: 
+
+- name: Mountain Breeze Log Cabins
+  startdate: 27-12-2017
+  enddate: 29-12-2017
+  coordinates: 24.041220899999985, -33.9827535
+  url: http://www.booking.com/Share-oN6Lql
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://s-ec.bstatic.com/images/hotel/max300/269/26946524.jpg
+  image-credit: booking.com
+  Facebook:
+
+- name: Glen Eden Ranch
+  startdate: 29-12-2017
+  enddate: 30-12-2017
+  coordinates: 20.122741, -33.773719
+  url: https://www.airbnb.com/rooms/15403626?s=51
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://a0.muscache.com/im/pictures/7a6af4e2-1edf-4846-9a97-4c8b38825268.jpg?aki_policy=x_large
+  image-credit: Airbnb.com
+  Facebook: 
+
+- name: Cape town - Sea point
+  startdate: 31-12-2017
+  enddate: 02-01-2018
+  coordinates: 18.393710000000056, -33.91538
+  url: https://www.airbnb.com/rooms/17113755?s=51
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://a0.muscache.com/im/pictures/63d47133-d92f-4012-891c-889ba9f8ee6d.jpg?aki_policy=x_large
+  image-credit: http://www.capetown-airport.com/
+  Facebook:
+
+- name: Sunny family home 3 blocks from the beach
+  startdate: 09-01-2018
+  enddate: 19-01-2018
+  coordinates: 18.819920000000025, -34.10327
+  url: https://www.airbnb.com/rooms/12161715?s=51
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://a0.muscache.com/im/pictures/d7303130-a76f-4e52-b6c7-943f9d5378b4.jpg?aki_policy=x_large
+  image-credit: Airbnb.com
+  Facebook:
+
+- name: Cape Town International Airport (CPT)
+  startdate: 19-01-2018
+  enddate: 19-01-2018
+  coordinates: 18.602085100000068, -33.97146300000001
+  url: https://www.booking.com/airport/za/cpt.nl.html
+  marker-type: airport
+  marker-color: \#DE3831
+  image-url: /images/cape-town-airport-central-terminal.jpg
+  image-credit: http://www.capetown-airport.com/
+  Facebook:
+
+- name: Enjo Nature Farm
+  startdate: 02-01-2018
+  enddate: 09-01-2018
+  coordinates: 18.903710000000046, -32.19612
+  url: https://www.soulcountry.info/en/
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: /images/EnjoNatureFarm_10345768_967864089941258_3493688400589160423_n.jpg
+  image-credit: https://www.soulcountry.info/
+  Facebook: https://www.facebook.com/EnjoNatureFarm
+
+  
