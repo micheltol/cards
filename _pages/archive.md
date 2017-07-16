@@ -8,7 +8,7 @@ permalink: /archive/
 
 <div class="by-title hide archive">
 <h1>Title</h1>
-{% assign sorted_pages = (site.posts | sort: 'title') %}
+{% assign sorted_pages = site.posts | sort: 'title' %}
 {% for post in sorted_pages %}
 <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
 {% endfor %}
