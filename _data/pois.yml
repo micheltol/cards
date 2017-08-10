@@ -1,6 +1,6 @@
 - name: Tambo International airport (JNB)
-  startdate: 24-08-2017
-  enddate: 24-08-2017
+  startdate: 2017-08-24
+  enddate: 2017-08-24
   coordinates: 28.246111, -26.139167
   url: https://www.booking.com/airport/za/cpt.nl.html?aid=1309061
   marker-type: airport
@@ -9,8 +9,8 @@
   image-credit: http://www.johannesburg-airport.com
 
 - name: Ciara Lodge
-  startdate: 24-08-2017
-  enddate: 25-08-2017
+  startdate: 2017-08-24
+  enddate: 2017-08-25
   coordinates: 28.224802299999965, -25.7018952 
   url: http://www.booking.com/Share-VLYH5H?aid=1309061
   marker-type: lodging
@@ -19,8 +19,8 @@
   image-credit: "booking.com"
 
 - name: Ferny Farm Guest House
-  startdate: 25-08-2017
-  enddate: 27-08-2017
+  startdate: 2017-08-25
+  enddate: 2017-08-27
   coordinates: 29.9955, -23.8765415
   url: http://www.booking.com/Share-SNA0g8?aid=1309061
   marker-type: lodging
@@ -30,8 +30,8 @@
   Facebook: https://www.facebook.com/FernyFarmGuestHouse/
 
 - name: A Traveller's Palm
-  startdate: 27-08-2017
-  enddate: 29-08-2017
+  startdate: 2017-08-27
+  enddate: 2017-08-29
   coordinates: 31.1341024, -23.9326274
   url: http://www.booking.com/Share-oY4BLg?aid=1309061
   marker-type: lodging
@@ -41,8 +41,8 @@
   Facebook:
 
 - name: Marepe Country Lodge
-  startdate: 29-08-2017
-  enddate: 30-08-2017
+  startdate: 2017-08-29
+  enddate: 2017-08-30
   coordinates: 30.8415991, -24.4668336
   url: http://www.booking.com/Share-q3ZH30?aid=1309061
   marker-type: lodging
@@ -52,8 +52,8 @@
   Facebook:
 
 - name: Blue Swallow Chalets
-  startdate: 30-08-2017
-  enddate: 31-08-2017
+  startdate: 2017-08-30
+  enddate: 2017-08-31
   coordinates: 30.842534999999998, -24.932826
   url: http://www.booking.com/Share-ImxKbT?aid=1309061
   marker-type: lodging
@@ -63,8 +63,8 @@
   Facebook:
 
 - name: Hazyview Adventure Backpackers
-  startdate: 31-08-2017
-  enddate: 01-09-2017
+  startdate: 2017-08-31
+  enddate: 2017-09-01
   coordinates: 31.108105600000044, -25.0655501
   url: http://www.booking.com/Share-1gMMKM?aid=1309061
   marker-type: lodging
@@ -74,8 +74,8 @@
   Facebook:
 
 - name: Manzini Swazi King Chalets
-  startdate: 01-09-2017
-  enddate: 02-09-2017
+  startdate: 2017-09-01
+  enddate: 2017-09-02
   coordinates: 31.762730000000033, -25.38451
   url: https://www.airbnb.com/rooms/12260321?s=51
   marker-type: lodging
@@ -86,8 +86,8 @@
 
 
 - name:   Hlane Royal National Park
-  startdate: 02-09-2017
-  enddate: 03-09-2017
+  startdate: 2017-09-02
+  enddate: 2017-09-03
   coordinates: 31.879030599999965, -26.283348
   url: http://www.booking.com/Share-GB6gqE?aid=1309061
   marker-type: lodging
@@ -97,8 +97,8 @@
   Facebook:
 
 - name: Mlilwane Wildlife Sanctuary
-  startdate: 03-09-2017
-  enddate: 04-09-2017
+  startdate: 2017-09-03
+  enddate: 2017-09-04
   coordinates: 31.194044, -26.479780 
   url: http://www.booking.com/Share-BMya3u?aid=1309061
   marker-type: lodging
@@ -108,8 +108,8 @@
   Facebook:
 
 - name: Sodwana Bay Lodge Self Catering
-  startdate: 04-09-2017
-  enddate: 07-09-2017
+  startdate: 2017-09-04
+  enddate: 2017-09-07
   coordinates: 32.657557699999984, -27.5135145
   url: http://www.booking.com/Share-2At0br?aid=1309061
   marker-type: lodging
@@ -119,8 +119,8 @@
   Facebook:
 
 - name: Carrington Guest House
-  startdate: 09-09-2017
-  enddate: 11-09-2017
+  startdate: 2017-09-09
+  enddate: 2017-09-11
   coordinates: 30.969013000000018, -29.881311
   url: http://www.booking.com/Share-fOMNTt?aid=1309061
   marker-type: lodging
@@ -130,8 +130,8 @@
   Facebook:
 
 - name: Palm Springs B&B And Self Catering
-  startdate: 11-09-2017
-  enddate: 12-09-2017
+  startdate: 2017-09-11
+  enddate: 2017-09-12
   coordinates: 28.138539000000037, -32.322688
   url: http://www.booking.com/Share-J6tkax?aid=1309061
   marker-type: lodging
@@ -141,8 +141,8 @@
   Facebook:
 
 - name: Avoca River Cabins
-  startdate: 12-09-2017
-  enddate: 15-09-2017
+  startdate: 2017-09-12
+  enddate: 2017-09-15
   coordinates:  25.588136, -33.481884 
   url: http://www.booking.com/Share-KQpqWZ?aid=1309061
   marker-type: lodging
@@ -152,8 +152,8 @@
   Facebook:
   
 - name: Schelde Apartment
-  startdate: 15-09-2017
-  enddate: 17-09-2017
+  startdate: 2017-09-15
+  enddate: 2017-09-17
   coordinates:  24.92096700000002, -34.050516
   url: http://www.booking.com/Share-pYRBSE?aid=1309061
   marker-type: lodging
@@ -163,8 +163,8 @@
   Facebook:
 
 - name: Old Mill Lodge & A la Carte Restaurant
-  startdate: 17-09-2017
-  enddate: 19-09-2017
+  startdate: 2017-09-17
+  enddate: 2017-09-19
   coordinates: 22.251905999999963, -33.462093
   url: http://www.booking.com/Share-bBD0PH?aid=1309061
   marker-type: lodging
@@ -174,8 +174,8 @@
   Facebook:
 
 - name: Kure Kure Accommodation
-  startdate: 19-09-2017
-  enddate: 21-09-2017
+  startdate: 2017-09-19
+  enddate: 2017-09-21
   coordinates: 19.191418, -34.421171
   url: http://www.booking.com/Share-mQl2JA?aid=1309061
   marker-type: lodging
@@ -185,8 +185,8 @@
   Facebook:
   
 - name: Manners Manor
-  startdate: 21-09-2017
-  enddate: 21-12-2017
+  startdate: 2017-09-21
+  enddate: 2017-12-21
   coordinates: 18.37062000000003, -34.02328
   url:
   marker-type: lodging
@@ -196,8 +196,8 @@
   Facebook:
 
 - name: Knysna
-  startdate: 21-12-2017
-  enddate: 23-12-2017
+  startdate: 2017-12-21
+  enddate: 2017-12-23
   coordinates: 22.939277, -34.036056
   url: https://www.airbnb.com/rooms/16854602?s=51
   marker-type: lodging
@@ -207,8 +207,8 @@
   Facebook: 
 
 - name: Cashel Cottage, Kundalila Farm
-  startdate: 23-12-2017
-  enddate: 27-12-2017
+  startdate: 2017-12-23
+  enddate: 2017-12-27
   coordinates: 23.472814, -33.952905
   url: https://www.airbnb.com/rooms/7895047?s=51
   marker-type: lodging
@@ -218,8 +218,8 @@
   Facebook: 
 
 - name: Mountain Breeze Log Cabins
-  startdate: 27-12-2017
-  enddate: 29-12-2017
+  startdate: 2017-12-27
+  enddate: 2017-12-29
   coordinates: 24.041220899999985, -33.9827535
   url: http://www.booking.com/Share-oN6Lql?aid=1309061
   marker-type: lodging
@@ -229,8 +229,8 @@
   Facebook:
 
 - name: Glen Eden Ranch
-  startdate: 29-12-2017
-  enddate: 30-12-2017
+  startdate: 2017-12-29
+  enddate: 2017-12-30
   coordinates: 20.122741, -33.773719
   url: https://www.airbnb.com/rooms/15403626?s=51
   marker-type: lodging
@@ -240,8 +240,8 @@
   Facebook: 
 
 - name: Cape town - Sea point
-  startdate: 31-12-2017
-  enddate: 02-01-2018
+  startdate: 2017-12-31
+  enddate: 2018-01-02
   coordinates: 18.393710000000056, -33.91538
   url: https://www.airbnb.com/rooms/17113755?s=51
   marker-type: lodging
@@ -251,8 +251,8 @@
   Facebook:
 
 - name: Sunny family home 3 blocks from the beach
-  startdate: 09-01-2018
-  enddate: 19-01-2018
+  startdate: 2018-01-09
+  enddate: 2018-01-19
   coordinates: 18.819920000000025, -34.10327
   url: https://www.airbnb.com/rooms/12161715?s=51
   marker-type: lodging
@@ -262,8 +262,8 @@
   Facebook:
 
 - name: Cape Town International Airport (CPT)
-  startdate: 19-01-2018
-  enddate: 19-01-2018
+  startdate: 2018-01-19
+  enddate: 2018-01-19
   coordinates: 18.602085100000068, -33.97146300000001
   url: https://www.booking.com/airport/za/cpt.nl.html?aid=1309061
   marker-type: airport
@@ -273,8 +273,8 @@
   Facebook:
 
 - name: Enjo Nature Farm
-  startdate: 02-01-2018
-  enddate: 09-01-2018
+  startdate: 2018-01-02
+  enddate: 2018-01-09
   coordinates: 18.903710000000046, -32.19612
   url: https://www.soulcountry.info/en/
   marker-type: lodging

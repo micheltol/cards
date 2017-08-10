@@ -6,12 +6,14 @@
       "type": "Feature",
       "properties": {
         "title": "{{poi.name}}",
+        "startdate": "{{ poi.startdate }}",
+        "enddate": "{{ poi.enddate }}",
+        "booking-url": "{{ poi.url }}",
+        "bookingagency": "{{poi.image-credit}}",
         "marker-color": "{{poi.marker-color}}",
         "marker-size": "medium",
         "marker-symbol": "{{ poi.marker-type }}",
         "marker-image": "{{ poi.image-url }}"
-        
-
       },
       "geometry": {
         "type": "Point",

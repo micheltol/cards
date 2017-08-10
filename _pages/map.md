@@ -7,6 +7,7 @@ permalink: /map/
 <style type="text/css">
         body { margin:0; padding:0; }
         #map { position:absolute; top:72px; bottom:0; width:100%; }
+        .popup > .container> .row > .col-md-12 {padding-left:0px;}
 </style>
 
 <div id="map"></div>
@@ -22,18 +23,42 @@ permalink: /map/
     var geojson = {% include pois.geojson %};
     var myLayer = L.mapbox.featureLayer().addTo(map);
 
-    // Add custom popup html to each marker.
     myLayer.on('layeradd', function(e) {
         var marker = e.layer;
         var feature = marker.feature;
         var image = feature.properties["marker-image"];
 
-        var content =  '<div class="popup">' +
-                                '<h2>' + feature.properties.title + '</h2>' +
-                                '<div class="image">' +
-                                    '<img src="' + image + '" />' +
-                                '</div>'
-                            '</div>';
+        var bookedViaContent = "";
+        if (feature.properties["booking-url"] != "") {
+        bookedViaContent =      '<li><i class="fa-li fa fa-external-link-square"></i>'
+                                +    '<a target="_blank" href="'+feature.properties["booking-url"]+'">' 
+                                +feature.properties.bookingagency
+                                + '</a></li>';
+        }
+
+        var content =            '<div class="popup">'
+                                + '<div class="container">'
+                                +    '<div class="row">'
+                                +      '<div class="col-md-12">'
+                                +        '<h2>'
+                                +          feature.properties.title
+                                +        '</h2>'
+                                +      '</div>'
+                                +      '<div class="col-md-12">'
+                                +        '<ul class="fa-ul">'
+                                +          '<li><i class="fa-li fa fa-calendar"></i>'
+                                +             moment(feature.properties.startdate).format('DD MMM') + ' - ' 
+                                +             moment(feature.properties.enddate).format('DD MMM')
+                                +          '</li>'
+                                +          bookedViaContent  
+                                +        '</ul>'
+                                +      '</div>'
+                                +      '<div class="col-md-12 image">'
+                                +        '<img src="' + image + '" width="300px" />' 
+                                +      '</div>'                                                                
+                                +    '</div>'
+                                + '</div>'
+                                +'</div>';
         marker.bindPopup(content,{
             closeButton: true,
             minWidth: 320
