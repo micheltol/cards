@@ -36,6 +36,14 @@ permalink: /map/
                                 + '</a></li>';
         }
 
+        var facebookContent = "";
+        if (feature.properties["facebook"] != "") {
+        facebookContent =      '<li><i class="fa-li fa fa-facebook-square"></i>'
+                                +    '<a target="_blank" href="'+feature.properties["facebook"]+'">' 
+                                +feature.properties["facebook"].replace("https://www.facebook.com/","")
+                                + '</a></li>';
+        }
+
         var content =            '<div class="popup">'
                                 + '<div class="container">'
                                 +    '<div class="row">'
@@ -50,7 +58,8 @@ permalink: /map/
                                 +             moment(feature.properties.startdate).format('DD MMM') + ' - ' 
                                 +             moment(feature.properties.enddate).format('DD MMM')
                                 +          '</li>'
-                                +          bookedViaContent  
+                                +          bookedViaContent
+                                +          facebookContent  
                                 +        '</ul>'
                                 +      '</div>'
                                 +      '<div class="col-md-12 image">'
@@ -59,6 +68,7 @@ permalink: /map/
                                 +    '</div>'
                                 + '</div>'
                                 +'</div>';
+
         marker.bindPopup(content,{
             closeButton: true,
             minWidth: 320

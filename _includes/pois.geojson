@@ -13,7 +13,9 @@
         "marker-color": "{{poi.marker-color}}",
         "marker-size": "medium",
         "marker-symbol": "{{ poi.marker-type }}",
-        "marker-image": "{{ poi.image-url }}"
+        "marker-image": "{{ poi.image-url }}",
+        "facebook": "{{ poi.Facebook }}"
+        
       },
       "geometry": {
         "type": "Point",
