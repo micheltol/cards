@@ -195,7 +195,18 @@
   image-credit: "booking.com"
   Facebook:
 
-- name: Knysna
+- name: Hermanus beach club
+  startdate: 2017-09-21
+  enddate: 2017-12-21
+  coordinates: 19.2130892, -34.435907
+  url: http://www.booking.com/Share-gnfaeW?aid=1309061
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://r-fa.bstatic.com/images/hotel/max300/106/106061600.jpg
+  image-credit: "booking.com"
+  Facebook:
+
+- name: The Pump house
   startdate: 2017-12-21
   enddate: 2017-12-23
   coordinates: 22.939277, -34.036056
@@ -206,7 +217,7 @@
   image-credit: Airbnb.com
   Facebook: 
 
-- name: Cashel Cottage, Kundalila Farm
+- name: Kundalila Farm
   startdate: 2017-12-23
   enddate: 2017-12-27
   coordinates: 23.472814, -33.952905
@@ -239,6 +250,17 @@
   image-credit: Airbnb.com
   Facebook: 
 
+- name: Simonsberg Guesthouse
+  startdate: 2017-12-30
+  enddate: 2017-12-31
+  coordinates: 18.7743751, -33.9466715
+  url: http://www.booking.com/Share-Tw7BCrM?aid=1309061
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: https://q-fa.bstatic.com/images/hotel/max300/392/39245044.jpg
+  image-credit: booking.com
+  Facebook:  https://www.facebook.com/SimonsbergGuesthouseWC
+
 - name: Cape town - Sea point
   startdate: 2017-12-31
   enddate: 2018-01-02
@@ -249,6 +271,17 @@
   image-url: https://a0.muscache.com/im/pictures/63d47133-d92f-4012-891c-889ba9f8ee6d.jpg?aki_policy=x_large
   image-credit: http://www.capetown-airport.com/
   Facebook:
+
+- name: Enjo Nature Farm
+  startdate: 2018-01-02
+  enddate: 2018-01-09
+  coordinates: 18.903710000000046, -32.19612
+  url: https://www.soulcountry.info/en/
+  marker-type: lodging
+  marker-color: \#007A4D
+  image-url: /images/EnjoNatureFarm_10345768_967864089941258_3493688400589160423_n.jpg
+  image-credit: https://www.soulcountry.info/
+  Facebook: https://www.facebook.com/EnjoNatureFarm
 
 - name: Sunny family home 3 blocks from the beach
   startdate: 2018-01-09
@@ -271,14 +304,3 @@
   image-url: /images/cape-town-airport-central-terminal.jpg
   image-credit: http://www.capetown-airport.com/
   Facebook:
-
-- name: Enjo Nature Farm
-  startdate: 2018-01-02
-  enddate: 2018-01-09
-  coordinates: 18.903710000000046, -32.19612
-  url: https://www.soulcountry.info/en/
-  marker-type: lodging
-  marker-color: \#007A4D
-  image-url: /images/EnjoNatureFarm_10345768_967864089941258_3493688400589160423_n.jpg
-  image-credit: https://www.soulcountry.info/
-  Facebook: https://www.facebook.com/EnjoNatureFarm
