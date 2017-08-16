@@ -5,20 +5,47 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="google-site-verification" content="4dYHvtsmwWfrisw7aVAtqAJvCW_Lpwo9rgCMKH0mrsM" />
   <meta name="B-verify" content="e14f3638fad417df6b43e10213faa5bf9d6e72a9" />
-  <meta content="{{ site.title }}" property="og:site_name"> {% if page.title %}
-  <meta content="{{ page.title }}" property="og:title"> {% else %}
-  <meta content="{{ site.title }}" property="og:title"> {% endif %} {% if page.title %}
-  <meta content="article" property="og:type"> {% else %}
-  <meta content="website" property="og:type"> {% endif %} {% if page.description %}
-  <meta content="{{ page.description | strip_html | strip_newlines | truncate: 160 }}" property="og:description"> {% else %}
-  <meta content="{{ site.description | strip_html | strip_newlines | truncate: 160 }}" property="og:description"> {% endif %} {% if page.url %}
-  <meta content="{{ site.url }}{{ page.url }}" property="og:url"> {% endif %} {% if page.date %}
+  <meta content="{{ site.title }}" property="og:site_name">
+   {% if page.title %}
+  <meta content="{{ page.title }}" property="og:title"> 
+  {% else %}
+  <meta content="{{ site.title }}" property="og:title">
+  {% endif %}
+  {% if page.title %}
+  <meta content="article" property="og:type">
+  {% else %}
+  <meta content="website" property="og:type">
+  {% endif %}
+  {% if page.description %}
+  <meta content="{{ page.description | strip_html | strip_newlines | truncate: 160 }}" property="og:description">
+  <meta content="{{ page.description | strip_html | strip_newlines | truncate: 160 }}" name="description">
+  {% else %}
+  <meta content="{{ site.description | strip_html | strip_newlines | truncate: 160 }}" property="og:description">
+  <meta content="{{ site.description | strip_html | strip_newlines | truncate: 160 }}" name="description">
+  {% endif %}
+  {% if page.url %}
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url"> 
+  % endif %}
+  {% if page.date %}
   <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-  <meta content="{{ site.url }}/about/" property="article:author"> {% endif %} {% if page.img %}
-  <meta content="{{site.url}}/images/{{ page.img }}" property="og:image"> {% else %}
-  <meta content="{{site.url}}/images/welkom-kaapstad.jpg" property="og:image"> {% endif %} {% if page.categories %} {% for category in page.categories limit:1 %}
-  <meta content="{{ category }}" property="article:section"> {% endfor %} {% endif %} {% if page.tags %} {% for tag in page.tags %}
-  <meta content="{{ tag }}" property="article:tag"> {% endfor %} {% endif %}
+  <meta content="{{ site.url }}/about/" property="article:author">
+  {% endif %}
+  {% if page.img %}
+  <meta content="{{site.url}}/images/{{ page.img }}" property="og:image">
+  {% else %}
+  <meta content="{{site.url}}/images/welkom-kaapstad.jpg" property="og:image"> 
+  % endif %}
+  {% if page.categories %} 
+    {% for category in page.categories limit:1 %}
+  <meta content="{{ category }}" property="article:section"> 
+    {% endfor %}
+  {% endif %}
+  
+  {% if page.tags %} 
+    {% for tag in page.tags %}
+  <meta content="{{ tag }}" property="article:tag"> 
+    {% endfor %}
+  {% endif %}
 
   <link rel="stylesheet" href="{{site.baseurl}}/css/bootstrap.min.css">
   <link rel="stylesheet" href="{{site.baseurl}}/css/font-awesome.min.css">
