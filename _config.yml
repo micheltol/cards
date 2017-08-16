@@ -37,8 +37,10 @@ analytics: UA-4573188-4
 
 # Comments
 disqus-shortname: micheltol
-fb-page-url: https://www.facebook.com/volg.onze.avonturen/
+fb-page-url: https://www.facebook.com/wegosouth
 fb-page-title: We go South
+fb-app-id:  549480635219583
+insta-page-url: https://www.instagram.com/wegosouthafrica/
 
 mapbox:
   public_token: pk.eyJ1IjoibWljaGVsdG9sIiwiYSI6ImNqM3BraWYxdDAwM2MzM28yZ3lvcjRiZGcifQ.NAF8bQC04dLh7ILuirXXwQ
