@@ -1,6 +1,7 @@
 ---
 layout: redirected
-sitemap: false
+sitemap:
+   exclude: 'yes'
 permalink: /posts/bucketlist.html
 redirect_to:  /bucketlist/
 visible: 0
