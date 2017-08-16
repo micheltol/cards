@@ -25,7 +25,7 @@
   {% endif %}
   {% if page.url %}
   <meta content="{{ site.url }}{{ page.url }}" property="og:url"> 
-  % endif %}
+  {% endif %}
   {% if page.date %}
   <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
   <meta content="{{ site.url }}/about/" property="article:author">
@@ -34,7 +34,7 @@
   <meta content="{{site.url}}/images/{{ page.img }}" property="og:image">
   {% else %}
   <meta content="{{site.url}}/images/welkom-kaapstad.jpg" property="og:image"> 
-  % endif %}
+  {% endif %}
   {% if page.categories %} 
     {% for category in page.categories limit:1 %}
   <meta content="{{ category }}" property="article:section"> 

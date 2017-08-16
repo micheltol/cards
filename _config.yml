@@ -43,11 +43,6 @@ fb-page-title: We go South
 mapbox:
   public_token: pk.eyJ1IjoibWljaGVsdG9sIiwiYSI6ImNqM3BraWYxdDAwM2MzM28yZ3lvcjRiZGcifQ.NAF8bQC04dLh7ILuirXXwQ
 
-maps:
-  google:
-    api_key: <YOUR_KEY>
-
-
 # Sass style
 sass:
   style: compressed
