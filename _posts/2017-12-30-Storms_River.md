@@ -2,8 +2,8 @@
 layout: post
 title: Storms River
 date: 2017-12-30 14:02:40+02:00
-description: Vandaag moesten wij alweer door naar ons nieuwe huisje. s'ochtends zijn wij naar een snake farm gereden om even kort wat dieren te zien en oma over haar angst heen te helpen ;-) - uiteindelijk zijn we er wel 3,5 uur geb
-categories: [Rondreis]
+description: Vandaag moesten wij alweer door naar ons nieuwe huisje. s'ochtends zijn wij naar een snake farm gereden om even kort wat dieren te zien en oma over haar angst heen te helpen ;-) - uiteindelijk zijn we er wel 3,5 uur gebleven
+categories: [Garden Route, Storms River, slangen]
 tags: [Polarsteps]
 img: 2017-12-30-Storms_River/intro.jpg
 coordinates: 19.0198135375977, -33.7425422668457
