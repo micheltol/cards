@@ -9,7 +9,7 @@
 title: We Go South
 email: micheltol@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-              Website over onze (aanstaande) reis naar Zuid Afrika.
+              Website over onze reis naar Zuid Afrika.
   
   
   
@@ -52,6 +52,6 @@ sass:
 
 # Ruby Gems
 # gems: [jekyll-paginate, jekyll-seo-tag, jemoji]
-gems: [jekyll-paginate, jemoji]
+plugins: [jekyll-paginate, jemoji]
 # jekyll-maps
 

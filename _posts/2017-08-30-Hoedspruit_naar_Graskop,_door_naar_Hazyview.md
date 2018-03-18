@@ -2,7 +2,7 @@
 layout: post
 title: Hoedspruit naar Graskop, door naar Hazyview
 date: 2017-08-30 18:57:04+02:00
-description: Panorama Route - 3 Rondavels, God's window, Berlin Waterfalls en Bourke's luck potholes! We hebben van de uitzicht genoten.
+description: Panorama Route - 3 Rondavels, God's window, Berlin Waterfalls en Bourke's luck potholes! We hebben van het uitzicht genoten.
 categories: [Rondreis]
 tags: [Polarsteps]
 img: 2017-08-30-Hoedspruit_naar_Graskop,_door_naar_Hazyview/intro.jpg
@@ -11,6 +11,6 @@ Media: [2017-08-30-Hoedspruit_naar_Graskop,_door_naar_Hazyview/6f4d5773-f2b2-4fa
 ---
 Panorama Route ✔️
 3 Rondavels, God's window, Berlin Waterfalls en Bourke's luck potholes! 
-We hebben van de uitzicht genoten. 
+We hebben van het uitzicht genoten. 
 Geslapen hebben wij vannacht bij de Marepe Country Lodge in Hoedspruit. 
 In Graskop slapen wij in een veel te groot & spooky huis ... Dan door naar Hazyview. 1 nacht in een backpackers verblijf. 
