@@ -5,7 +5,7 @@ date:   2017-09-19 22:50:00 +0200
 img: 2017-09-19-28-dagen.jpg
 description: 28 dagen geleden is onze reis naar het Zuiden begonnen - morgen komen wij in Kaapstad aan waar wij 3 maanden in ons huisje in Hout Bay zullen wonen.  De plek vanwaar wij ‘the Mother City’ - Kaapstad – zullen ontdekken…."
 categories: [Rondreis]
-tags:  [Rondreis, Panoramaroute, Hout bay, Kruger Park, Umfolozi Park, Addo Elefant Park, Mlilwane Park, Swaziland, Hermanus ]
+tags:  [Rondreis, Panoramaroute, Hout Bay, Kruger Park, Umfolozi Park, Addo Elephant Park, Mlilwane Park, Swaziland, Hermanus ]
 ---
 28 dagen geleden is onze reis naar het Zuiden begonnen - morgen komen wij in Kaapstad aan waar wij 3 maanden in ons huisje in Hout Bay zullen wonen.  De plek vanwaar wij ‘the Mother City’ - Kaapstad – zullen ontdekken…
 
@@ -14,7 +14,7 @@ Tja… sloten op de koffers, stalenkabel er omheen… we zouden het allemaal erv
 
 Nu – na 17 verschillende b&b/resorts/lodges/huisjes/hutjes en bijna 5000 km meer op de teller - kunnen wij al aardig mee praten over hoe prachtig en mooi dit land is en hoe aardig en gezellig de mensen hier zijn.  De achterbak nog steeds vol bagage - het zijn alleen maar meer tassen geworden ;-) – alleen wel zonder drone: nee, niet gestolen … maar gecrasht in een waterval en inmiddels onderweg richting Nederland om vervangen te worden… en zonder Mecki: Timons knuffel wilde blijkbaar liever in het wild leven dan in Timon’s bed…
 
-Tijdens het eerste deel van onze rondreis hebben wij  veel wildparken zoals Kruger Park, Umfolozi Park, Addo Elefant Park en Mlilwane Park in Swaziland gezien. Het was indrukwekkend en spannend om al die wilde dieren van dichtbij te kunnen zien.  De hoogde punten waren  de olifanten die rustig bij het water pool stonden te drinken, de buffels die het niet zo tof vonden dat zij hun straat met ons moesten delen, de kudde olifanten die ons achter na heeft gezeten, de leeuw die uit lag te buiken van die lekkere buffel die nog naast hem lag en het luipaard wat wij gespot hebben (lucky us!) Ook 3 neushoorns hebben wij gezien. Dus de big 5 kunnen wij van onze bucketlist afstrepen!!! YEAH!! 
+Tijdens het eerste deel van onze rondreis hebben wij  veel wildparken zoals Kruger Park, Umfolozi Park, Addo Elephant Park en Mlilwane Park in Swaziland gezien. Het was indrukwekkend en spannend om al die wilde dieren van dichtbij te kunnen zien.  De hoogde punten waren  de olifanten die rustig bij het water pool stonden te drinken, de buffels die het niet zo tof vonden dat zij hun straat met ons moesten delen, de kudde olifanten die ons achter na heeft gezeten, de leeuw die uit lag te buiken van die lekkere buffel die nog naast hem lag en het luipaard wat wij gespot hebben (lucky us!) Ook 3 neushoorns hebben wij gezien. Dus de big 5 kunnen wij van onze bucketlist afstrepen!!! YEAH!! 
 
 In Swaziland hebben wij in een wild park gewoond. Wij sliepen in een B-Hive: een hutje helemaal gemaakt van riet/stro, wat dus – zoals de naam al zegt – op een bijenkorf lijkt. De impala’s, wildzwijnen, blesbokken en apen kwamen regelmatig op bezoek bij ons. Of eigenlijk waren wij op bezoek bij hen! In dit park konden wij  voor de verandering wandelen en mountainbiken tussen de wilden dieren. Timon en ik waren ook paardrijden langs de hippo’s en krokodillen (ja, die leven hier ook) en stonden op 3 meter afstand van de zebra’s. Zo cool! 
 ![De zebra's op 3 meter afstand](/images/2017-09-19-28-dagen_2.jpg){: .center-image }

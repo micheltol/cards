@@ -3,7 +3,7 @@ layout: post
 title: Munro's Birthday
 date: 2018-01-14 20:11:44+02:00
 description: Timon's  vriend van school is jarig en geeft een Campeer-feest! Super cool! Timon mag ook komen en gaat met 9 andere jongens lekker hiken en daarna in de tuin kamperen. Alles in het Engels! Stoer! 
-categories: [Hout bay]
+categories: [Hout Bay]
 tags: [Polarsteps, Timon, school, feest, afscheid]
 img: 2018-01-14-Munro's_Birthday/intro.jpg
 coordinates: 18.3706798553467, -34.0233955383301
