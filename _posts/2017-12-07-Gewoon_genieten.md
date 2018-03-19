@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gewoon genieten! 
-date: 2017-12-07 14:43:12+02:00
+date: 2017-12-06 14:43:12+02:00
 description: Genieten van het strand, van de zee, van de bergen, van het weer, van mijn nieuwe hobby, van de cadeaus van de Sint....
 categories: [Hout Bay]
 tags: [Polarsteps, Hout Bay, Sinterklaas, strand]

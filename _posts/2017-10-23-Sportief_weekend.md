@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sportief weekend
-date: 2017-10-23 19:22:40+02:00
+date: 2017-10-20 19:22:40+02:00
 description: Vrijdag namiddag was het sport event op jaras school - samen rennen, spelletjes doen en lekker picknicken! Het was heel erg gezellig! Jara had een mooie bloem 'gebakken' op school voor het picknick. 
 categories: [Hout Bay]
 tags: [Polarsteps, Hout Bay, Jara , Obstacle Running, Toyota Warrior, blouberg]

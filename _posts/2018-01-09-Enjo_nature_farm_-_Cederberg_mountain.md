@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enjo nature farm 
-date: 2018-01-09 07:04:32+02:00
+date: 2018-01-02 07:04:32+02:00
 description: Op naar het noorden! 7 dagen in de Cederberg Mountains - in the middle of nowhere - geen internet, geen mobiele netwerk - alleen een paar geiten, apen, een heleboel stenen en stof en 43 graden..... En niet te vergeten ee
 categories: [Rondreis]
 tags: [Polarsteps, Cederberg Mountains, Enjoy, hitte]

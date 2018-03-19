@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stellenbosch en Franschhoek
-date: 2017-12-18 20:35:12+02:00
+date: 2017-12-15 20:35:12+02:00
 description: Wij hadden een druk en vooral erg leuk weekend in Stellenbosch en Franschhoek!  Vrijdag HET kerstfeest voor de kids uit Smartietown. alle kids waren erg blij met de muziek, het eten..
 categories: [Kaapstad]
 tags: [Polarsteps, Smartie town, Stellenosch, Franschhoek, wine, tasting]

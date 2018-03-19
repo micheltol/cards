@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mooie dingen...
-date: 2017-12-02 20:07:28+02:00
+date: 2017-11-22 20:07:28+02:00
 description: Mooie dingen maken bij het Clay Café! 
 categories: [Hout Bay]
 tags: [Polarsteps, Hout Bay, Clay Café]

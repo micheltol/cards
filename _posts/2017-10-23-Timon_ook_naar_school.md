@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Timon ook naar school
-date: 2017-10-23 19:46:08+02:00
+date: 2017-10-19 19:46:08+02:00
 description: Vanaf vandaag mag Timon ook naar school! Kronendal! 
 categories: [Hout Bay]
 tags: [Polarsteps, Hout Bay, Timon, school, Kronendal, uniform, zwembad ] 

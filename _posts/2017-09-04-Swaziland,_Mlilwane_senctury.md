@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Swaziland, Mlilwane Senctury
-date: 2017-09-04 19:37:36+02:00
+date: 2017-09-02 19:37:36+02:00
 description: 2 dagen in het Mlilwane park in Swaziland! Geweldig! Hier mag je paardrijden, wandelen mountainbiken tussen de impala's, zebras, wrattenzwijnen, nijlpaarden, krokodillen, apen en bonte volgens en hagedissen! Dat hebben w
 categories: [Rondreis]
 tags: [Polarsteps]

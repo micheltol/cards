@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cape Town - Constantia Nek 
-date: 2017-09-23 18:52:48+02:00
+date: 2017-09-22 18:52:48+02:00
 description: Een wandeling in onze 'achtertuin' ... Constantia Nek National Park. 
 categories: [Hout Bay]
 tags: [Polarsteps, Constantia Nek National Park, Nation Park, achtertuin]

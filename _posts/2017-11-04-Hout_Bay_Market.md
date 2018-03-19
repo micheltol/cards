@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hout Bay Market 
-date: 2017-11-04 19:54:40+02:00
+date: 2017-11-03 19:54:40+02:00
 description: Mmm.... Weer een gezellige avond bij de Hout Bay Harbour Market. Live muziek, lekker eten en drinken & goed gezelschap! 
 categories: [Hout Bay]
 tags: [Polarsteps, Hout Bay, Food Market, Hout Bay Harbour Market]

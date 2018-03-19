@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wat een ervaring!
-date: 2017-08-28 20:03:12+02:00
+date: 2017-08-27 20:03:12+02:00
 description: Wat een ervaring! Wij voelden ons net Freek Vonk - achter nagezeten door de wilde dieren. Super! 
 Vandaag gezien: 18 olifanten, 1 leeuw, 7 zebra's, 3 giraffen, heeeeel veel buffels (heeeeel dicht bij 😳), 1 schildpad
 categories: [Rondreis]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Terug in Knysna!
-date: 2018-01-11 20:07:28+02:00
+date: 2018-01-09 20:07:28+02:00
 description: Toen wij hier twee weken geleden met Cobi op reis waren werden wij verliefd op de garden route
 categories: [Garden Route]
 tags: [Polarsteps, Knysna, Garden route, oceaan, verliefd]

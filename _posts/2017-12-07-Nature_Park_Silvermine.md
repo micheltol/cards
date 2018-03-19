@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nature Park Silvermine 
-date: 2017-12-07 14:06:56+02:00
+date: 2017-12-03 14:06:56+02:00
 description: Lekker samen een stukje wandelen en de oudste geo cash van Zuid Afrika vinden. Boven op de Sentinal heb je een prachtig uitzicht - ook over Hout Bay! 
 categories: [Hout Bay]
 tags: [Polarsteps, Nature Park Silvermine, Silvermine, Nature Park, Sentinel, GeoCache]

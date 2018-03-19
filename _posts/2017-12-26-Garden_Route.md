@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Garden Route
-date: 2017-12-26 19:03:28+02:00
+date: 2017-12-21 19:03:28+02:00
 description: Wat een prachtige eerste locatie van onze Garden Route. Wij slapen in tenten met blik op het riviertje! Oma mag in het huisje slapen. Wij hebben een buiten-badkamer, een grote braai plaats en een heerlijke veranda. Een k
 categories: [Garden Route]
 tags: [Polarsteps, Garden Route, tent, overnachting, Buffels Bay]

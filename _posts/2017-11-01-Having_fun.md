@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Having fun
-date: 2017-11-01 08:53:20+02:00
+date: 2017-10-28 08:53:20+02:00
 description: Weer een druk weekend 😌 Vrijdag het Halloween Feest bij Timon op school. Zaterdag werden we uitgenodigd van ouders van een vriend van Timon op een speedboot trip! Super tof! 
 categories: [Hout Bay]
 tags: [Polarsteps, speedboat, halloween, feest, Timon, Chapman's Peak, Bloubergstrand, Blouberg, vlieger]

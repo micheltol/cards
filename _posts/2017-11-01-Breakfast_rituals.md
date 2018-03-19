@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Breakfast rituals 
-date: 2017-11-01 09:06:08+02:00
+date: 2017-10-31 09:06:08+02:00
 description: Hier kunnen wij aan wennen.... 
 categories: [Hout Bay]
 tags: [Polarsteps, Hout Bay, breakfast, ontbijt, silvermist]

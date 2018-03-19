@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Saint Francis Bay, South Africa
-date: 2017-12-30 14:15:28+02:00
+date: 2017-12-28 14:15:28+02:00
 description: Nog een heerlijk dagje strand voordat we weer richting Montagu, Stellenbosch en Kaapstad rijden! 10 dagen zijn voorbij gevolgen! 
 categories: [Garden Route]
 tags: [Polarsteps, Garden Route, Saint Francis Bay, strand]

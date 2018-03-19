@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Noordhoek - cape point vinery
-date: 2017-09-30 19:05:36+02:00
+date: 2017-09-28 19:05:36+02:00
 description: Lekker eten en genieten op een foodmarket bij een wijnboerderij. 
 categories: [Hout Bay]
 tags: [Polarsteps, Hout Bay, Noordhoek, Winery, Food Market]

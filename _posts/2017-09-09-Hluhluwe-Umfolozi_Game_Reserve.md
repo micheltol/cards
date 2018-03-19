@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Umfolozi Game Reserve
-date: 2017-09-09 20:18:08+02:00
+date: 2017-09-08 20:18:08+02:00
 description: Teleurgesteld - ons werd door veel mensen verteld dat wij in deze park heel veel dieren zouden zien... Maar wij hadden pech.  Wel 3 neushoorns en wat zebra's, buffels en 1 giraffe.  Geslapen hebben wij in een leuke lodge
 categories: [Rondreis]
 tags: [Polarsteps]

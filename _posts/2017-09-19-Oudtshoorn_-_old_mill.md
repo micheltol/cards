@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Oudtshoorn - old mill 
-date: 2017-09-19 17:27:28+02:00
+title: Oudtshoorn - Old Mill 
+date: 2017-09-17 17:27:28+02:00
 description: Wij verblijven 2 nachten in een super deluxe familie tent direct aan het riviertje! Echt leuk!
 categories: [Rondreis]
 tags: [Polarsteps, Oudtshoorn, tent, struisvogels]

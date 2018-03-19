@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloukrans Bridge
-date: 2018-01-02 09:29:36+02:00
+date: 2017-12-29 09:29:36+02:00
 description: En voordat we de Route 62 rijden richting Montagu moeten / willen Michel en ik nog een grote stap nemen ;-) nou ... Eigenlijk meer een sprong dan een stap... 216 meter recht naar beneden, de hoogste Bungee jump vanaf een
 categories: [Garden Route]
 tags: [Polarsteps, Garden Route,Bloukrans, face adrenalin bungee jump]
