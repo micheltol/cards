@@ -15,6 +15,15 @@ layout: default
             {{ content }}
           </div>
 
+          {% if page.Gallery %} 
+              <div class="popup-gallery">
+              {% for mediaItem in page.Gallery %}
+                  <a href="/images/{{mediaItem.large}}" title="{{mediaItem.text}}">
+                    <img src="/images/{{mediaItem.small}}" width="75" height="75">
+                  </a>
+              {% endfor %}
+              </div>
+          {% endif %}
     </article>
     <div class="row">
         {% if site.disqus-shortname %}
