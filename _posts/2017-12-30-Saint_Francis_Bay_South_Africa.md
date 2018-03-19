@@ -17,6 +17,6 @@ Gallery:
     - small: 2017-12-30-Saint_Francis_Bay_South_Africa/4a991668-ef3e-4f69-ab15-36163c87beab_large_image.jpg
       large: 2017-12-30-Saint_Francis_Bay_South_Africa/4a991668-ef3e-4f69-ab15-36163c87beab_large_image.jpg
       text:  WeGoSouth.nl
-------
+---
 Nog een heerlijk dagje strand voordat we weer richting Montagu, Stellenbosch en Kaapstad rijden! 
 10 dagen zijn voorbij gevolgen! 

@@ -5,7 +5,7 @@ date: 2017-08-25 20:48:00+02:00
 description: 4,5 uur verder richting noorden. Geen bruine grasvelden en rood zand meer, maar een groene kloof met watervallen! Mooi!  Slapen in een huisje met prachtige view overdag en een sterrenhemel met
 categories: [Rondreis]
 tags: [Polarsteps]
-img: 2017-08-25-Ferny_Farms/intro.jpg
+img: 2017-08-25-Haenertsburg_-_Magoebaskloof/intro.jpg
 coordinates: 29.9901657104492, -23.8815021514893
 Gallery:
     - small: 2017-08-25-Haenertsburg_-_Magoebaskloof/4beea85b-e495-4b48-accb-bc97315e97c7_large_image.jpg
