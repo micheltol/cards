@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Llandudno
-date: 2017-12-02 20:09:36+02:00
+date: 2017-12-01 20:09:36+02:00
 description: Na het avondeten nog naar het strand ! Wat heerlijk!! 
 categories: [Hout Bay]
 tags: [Polarsteps, Llandudno, strand, water]
-img: 2017-12-01-Llandudno/intro.jpg
+img: 2017-12-02-Llandudno/intro.jpg
 coordinates: 18.3397121429443, -34.0083961486816
 Gallery:
     - small: 2017-12-02-Llandudno/833bf242-ff1a-46a6-ad77-a08c2f1bd907_large_image.jpg
