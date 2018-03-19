@@ -18,8 +18,8 @@ layout: default
           {% if page.Gallery %} 
               <div class="popup-gallery">
               {% for mediaItem in page.Gallery %}
-                  <a href="/images/{{mediaItem.large}}" title="{{mediaItem.text}}">
-                    <img src="/images/{{mediaItem.small}}" width="75" height="75">
+                  <a href="/images/{{mediaItem.large}}">
+                    <img src="/images/{{mediaItem.small}}" alt="{{mediaItem.text}}" width="75" height="75">
                   </a>
               {% endfor %}
               </div>
