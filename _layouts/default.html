@@ -6,38 +6,38 @@ layout: compress
 <!DOCTYPE html>
 <html lang="nl">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-    {% include header.html %}
+  {% include header.html %}
 
-    <div class="container fill">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+  <div class="container fill">
+    <div class="wrapper">
+      {{ content }}
     </div>
+  </div>
 
-    {% include footer.html %}
-    
-<script async>
-    (function() {
-        var font = document.createElement('link'); 
-        font.type = 'text/css'; 
-        font.rel = 'stylesheet';
-        font.href = '//fonts.googleapis.com/css?family=Raleway:400,700';
-        var s = document.getElementsByTagName('link')[0]; 
-        s.parentNode.insertBefore(font, s);
-      })();
-</script>
-    
+  {% include footer.html %}
+
+  <script async>
+    (function () {
+      var font = document.createElement('link');
+      font.type = 'text/css';
+      font.rel = 'stylesheet';
+      font.href = '//fonts.googleapis.com/css?family=Raleway:400,700';
+      var s = document.getElementsByTagName('link')[0];
+      s.parentNode.insertBefore(font, s);
+    })();
+  </script>
+
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
   <script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
   <script src="{{site.baseurl}}/js/magnific.js"></script>
 
 
   <script type="text/javascript">
-    $(document).ready(function() {
+    $(document).ready(function () {
       $('.popup-gallery').magnificPopup({
         delegate: 'a',
         type: 'image',
@@ -46,7 +46,7 @@ layout: compress
         gallery: {
           enabled: true,
           navigateByImgClick: true,
-          preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+          preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
         },
         image: {
           tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
@@ -56,11 +56,8 @@ layout: compress
         }
       });
     });
-  </script>
 
-
-  
- {% if site.analytics %}{% include analytics.html %}{% endif %}
-  </body>
+  </script> {% if site.analytics %}{% include analytics.html %}{% endif %}
+</body>
 
 </html>
