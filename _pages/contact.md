@@ -7,10 +7,12 @@ permalink: /contact/
 
 Wil je wat kwijt of wat vragen? Neem contact op! Wij zouden dat erg leuk vinden!
 
-
-<form id="contact-form" class="form-horizontal" action="https://getsimpleform.com/messages?form_api_token=ebca84fa0ead3311e04e74df58a06b3e" method="POST">
+<form name="contact" id="contact-form" class="form-horizontal" method="POST" data-netlify="true" netlify-honeypot="bonus" action="/thank-you/">
        <fieldset>
-       
+            <div class="form-group hidden">
+                <label for="bonus">bonus</label>
+                <input type="text" class="form-control" id="bonus" name="bonus" placeholder="Bonus">
+            </div>
             <div class="form-group">
                 <label class="col-lg-2 control-label" for="name">Name:</label>
                 <div class="col-lg-10">
@@ -29,12 +31,10 @@ Wil je wat kwijt of wat vragen? Neem contact op! Wij zouden dat erg leuk vinden!
                 <textarea class="contact-textarea" placeholder="Het bericht" class="form-control" rows="4" id="message" name="message" tabindex="3"></textarea>
                 </div>
             </div>
-            
            <div class="form-group"> 
            <div class="col-lg-10 col-lg-offset-2">  
          <input type="submit" class="btn btn-primary" value="Send" id="submit"/>
          </div>
          </div>
-        <input type="hidden" name='redirect_to' value="http://test.micheltol.nl/thank-you/" />
     </fieldset>  
 </form>
