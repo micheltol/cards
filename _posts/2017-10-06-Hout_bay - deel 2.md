@@ -2,7 +2,7 @@
 layout: post
 title: Hout Bay
 date: 2017-10-06 20:07:28+02:00
-description: We genieten elke dag hier in Hout Bay! Vakantie voetbal camp van Timon en paardrij camp van Jara zijn net afgelopen - dat was super leuk! 
+description: We genieten elke dag hier in Hout Bay! Vakantie voetbal camp van Timon en paardrijkamp van Jara zijn net afgelopen - dat was super leuk! 
 categories: [Hout Bay]
 tags: [Polarsteps, Hout Bay, voetbal, paardrijden, eten]
 img: 2017-10-06-Hout_bay/intro.jpg

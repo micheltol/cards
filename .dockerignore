@@ -1,0 +1,4 @@
+bundle
+docker-compose.yml
+.jekyll-cache
+.dockerignore

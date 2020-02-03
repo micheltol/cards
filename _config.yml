@@ -52,3 +52,14 @@ sass:
 plugins: [jekyll-paginate, jemoji]
 # jekyll-maps
 
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - bundle/gems/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - start.cmd
+  - Dockerfile
