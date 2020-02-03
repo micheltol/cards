@@ -1,0 +1,16 @@
+version: '3'
+services:
+  web:
+    image: jekyllhost:wegosouth
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: jekyll serve --watch --force_polling --trace --incremental --host=0.0.0.0
+    #command: gulp develop 
+    ports:
+      - 4000:4000
+      # - 35729:35729
+      - 3000:3000
+    volumes:
+      - .:/srv/jekyll
+      - ./bundle:/usr/local/bundle
