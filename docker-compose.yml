@@ -5,7 +5,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    command: jekyll serve --watch --force_polling --trace --incremental --host=0.0.0.0
+    #command: jekyll serve --watch --force_polling --trace --incremental --host\=0.0.0.0
     #command: gulp develop 
     ports:
       - 4000:4000
